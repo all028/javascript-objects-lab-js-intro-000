@@ -1,6 +1,6 @@
-var recipes = { foo: 'bar' }
+//var recipes = { foo: 'bar' }
 
-var obj = Object.assign({},recipes)
+//var obj = Object.assign({},recipes)
 
 function updateObjectWithKeyAndValue(obj, key, value){
 
