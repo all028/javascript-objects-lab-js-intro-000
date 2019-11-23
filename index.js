@@ -4,7 +4,7 @@
 
 function updateObjectWithKeyAndValue(obj, key, value){
 
-  x = Object.assign(obj, {key: value});
+  var x = Object.assign(obj, {key: value});
   return x;
 }
 
