@@ -7,3 +7,8 @@ function destructivelyObjectWithKeyAndValue(obj, key, value){
 
   return obj;
 }
+
+function deleteFromObjectByKey(){
+
+  return obj;
+}
